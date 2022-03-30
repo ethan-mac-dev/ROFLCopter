@@ -1,5 +1,7 @@
 #/bin/bash
 
+set -euxo pipefail
+
 while :
 do
   cat /path/to/ROFL/frame1
